@@ -1,5 +1,5 @@
 """
-ASGI config for tasklista project.
+ASGI config for tasklist project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
